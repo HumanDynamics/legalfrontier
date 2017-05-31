@@ -13,8 +13,10 @@ In the original TJ Hooper case, the court found that there was no industry stand
 Now imagine if that case had been decided in the age of data science. For sake of ease, let's assume there is only 1 manufacturer of radio equipment suitable for maritime use, and that the company uses modern customer relations management tools to help their sales team succeed (which includes a robust system for capturing information about sales leads and current customers). With a subpoena to this manufacturer, it would be possible to obtain their complete list of customers within the tugboat industry.  It would include the number of radios, the dates on which they were purchased, and the location of the companies.  In the actual TJ Hooper case, the court merely concedes there was no industry standard.  Here, though, it could be knowable in an instant that only 1% of tug boats had purchased radios.
 If that were true, given Holmes's definition of the reasonable person standard (which, in the TJ Hooper case would mean a reasonable company), it would be simple work to establish that the average tug boat owner of ordinary prudence would not, at the time of the incident, have had a radio on board.
 Significantly, note that if it was known ahead of time that this was the relevant standard, all of this work could be done without a judge or jury.  Simply put, if a reasonable person is “average,” then it’s a matter of having data and being able to do simply arithmetic to determine if the standard is met.  If we, as a society, were willing to empower this algorithm to render decisions (with a right of appeal - more on that below), then the entire machinery involving the human element of the court system would never need to be engaged.  
+
 Second legal issue: absent an industry standard, was the defendant’s conduct still unreasonable in failing to supply working radios?
-The complexity of the negligence standard expresses itself 
+
+The complexity of the negligence standard expresses itself in the TJ Hooper's second legal issue...
  
 fn1 Oliver Wendell Holmes, The Common Law 108 (1882)
 #####
