@@ -1,4 +1,4 @@
-Advances in computer technology have allowed data scientists to make predictions that, even 10 years ago, would be totally impossible: from predicting the Arab Spring via Twitter messages, to predicting womens’ pregnancies before they may even, themselves be aware.  
+Advances in computer technology have allowed data scientists to look at vast troves of information and to use them to find patterns that were previously unattainable
 
 In courtrooms across the United States, judges and juries devote millions of man-hours to making estimates as well. This essay is chiefly concerned with one sort of estimate: that of what a reasonable person would do in a given context.  This "reasonable person" standard is at the heart of many areas of law.  In 1882, Oliver Wendell Holmes described this standard: “what would be blameworthy in the average man, the man of ordinary intelligence and prudence, and determines liability by that.” # 1 
 
@@ -6,6 +6,7 @@ In courtrooms across the United States, judges and juries devote millions of man
 
 
 #####
+
 fn1 Oliver Wendell Holmes, The Common Law 108 (1882)
 
 Appendix: A Science Fiction Story for the Legal Reader
