@@ -8,7 +8,7 @@ asdfadsfadsfd
 
 # 2 adfasdfad fadsfasdf
 
-asdfadsfdsfs
+[asdfadsfdsfs](https://github.com/HumanDynamics/legalfrontier/blob/master/compujury.md#fn1)
 
 # footnotes
 
