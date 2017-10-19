@@ -1,4 +1,4 @@
-In reading Design of Everything Things again, Norman says that we constantly attribute bad outcomes to the final, human cause, but rarely look for the design error that allowed it to happen.  He says that by doing some root cause analysis, we could change the design to reduce (or prevent) occurrence of the final human error causing the injury.  I think he’s darn right.
+In Design of Everything Things, Don Norman says that we constantly attribute bad outcomes to the final, human cause, but rarely look for the design error that allowed it to happen.  He says that by doing some root cause analysis, we could change the design to reduce (or prevent) occurrence of the final human error causing the injury.  I think he’s darn right.
  
 So why don’t we design a system like this for law?  One where any time there’s a serious injury, we don’t just ask what happened (duh, the driver fell asleep and went off the road and hit a pedestrian), and start asking “well, why was he able to fall asleep while driving?”).  
 
